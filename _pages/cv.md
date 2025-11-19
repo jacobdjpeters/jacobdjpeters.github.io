@@ -209,7 +209,7 @@ GIMP, Inkscape, Microsoft Suite.
 
 # Publications in Progress
 
- etaremune
+ 
 **Peters, J.D.J.**, Grant Connette, Xuhui Lee, Bronson W. Griscom, P.
 Mark Ashton (2025) *North American Liana Distributions Highlight
 Significant Opportunities for Improved Carbon Sequestration*.
@@ -217,7 +217,7 @@ Significant Opportunities for Improved Carbon Sequestration*.
 
 # Publications
 
- etaremune
+ 
 Freiburger, M., Danica Doroski, Colleen M. Dunning, P. Mark Ashton,
 **Jacob D. J. Peters** (2025) *The 10/20/30 Planting Rule Aligns with
 Traditional Plant Diversity Metrics across Spatial Scales*, [Urban
@@ -254,7 +254,7 @@ Development *9(2)*,
 
 # Invited Talks
 
- etaremune
+ 
 Yale Environmental Training Initiative's Forest Monitoring Workshop June
 2025
 
@@ -277,7 +277,7 @@ Letcher Co. KY Maple School December 2016
 
 # Contributed Talks (selected)
 
- etaremune
+ 
 Society of American Foresters National Convention October 2025
 
 New England Society of American Foresters Annual Meeting March 2025
