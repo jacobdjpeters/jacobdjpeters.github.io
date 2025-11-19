@@ -191,9 +191,12 @@ University **2019**
 
 # Memberships
 
--   **President, UVa-Wise Environmental Club** **Spring 2017--2018**
-
--   **Darden Society member** **2016--Present**
+**Member, Society of American Foresters** **2025--Present**  
+**Member, Yale Graduate Student Forestry Club** **2023--Present**  
+**Member, Yale Center for Geospatial Solutions Affiliated Students**
+**2024--Present**  
+**President, UVa-Wise Environmental Club** **Spring 2017--2018**  
+**Darden Society member** **2016--Present**
 
 # Computer Skills
 
