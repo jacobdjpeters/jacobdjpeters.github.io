@@ -22,6 +22,7 @@ New Haven, CT 06511 [1-276-219-1757](tel:1-276-219-1757)
 
 **Ph.D., Remote Sensing and Applied Forest Ecology,** **May 2028**\
 Yale School of the Environment, New Haven, CT, USA\
+\
 
 -   Dissertation Advisor: Profs. Mark Ashton and Xuhui Lee
 
@@ -30,6 +31,7 @@ Yale School of the Environment, New Haven, CT, USA\
 
 **M.S., Biology,** James Madison University, Harrisonburg, VA, USA **May
 2020**\
+\
 
 -   Honors: *Summa cum laude*, outstanding first year graduate student
 
@@ -37,6 +39,7 @@ Yale School of the Environment, New Haven, CT, USA\
 
 **B.S., Environmental Science,** UVA at Wise, Wise, VA, USA **May
 2018**\
+\
 
 -   Honors: *Magna cum laude*, Joseph C. Smiddy Outstanding Scientist
     Award
@@ -74,6 +77,7 @@ State College, PA, USA\
 \
 **Park Ranger Career Path Intern,** Virginia State Parks, USA **May
 2015--August 2016**\
+\
 
 # Research Interests
 
@@ -104,6 +108,7 @@ Research Day **2023**\
 **2019**\
 \
 **Joseph C. Smiddy Outstanding Scientist Award,** UVA at Wise **2018**\
+\
 
 # Grants and Scholarships
 
@@ -119,6 +124,7 @@ the Environment **2022**\
 \
 **\$1,000 ---** Norlyn L. Bodkin Botany Scholarship, James Madison
 University **2019**\
+\
 
 # Teaching Experience
 
