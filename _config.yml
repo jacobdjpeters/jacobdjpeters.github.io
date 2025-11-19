@@ -6,6 +6,8 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
+# to test: bundle exec jekyll serve
+
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
@@ -23,7 +25,7 @@ repository               : "jacobdjpeters/jacobdjpeters.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Jacob D. J. Peters"
   pronouns         :  "he / him / his"  
   bio              : "PhD candidate at the Forest School at the Yale School of the Environment studying at the intersection of remote sensing, environmental data science, and forest management."
