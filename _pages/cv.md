@@ -20,7 +20,7 @@ New Haven, CT 06511 [1-276-219-1757](tel:1-276-219-1757)
 
 # Education
 
-**Ph.D., Remote Sensing and Applied Forest Ecology,** **May 2028**  
+**Ph.D., Remote Sensing and Applied Forest Ecology,** **May 2027**  
 Yale School of the Environment, New Haven, CT, USA  
 
 -   Dissertation Advisor: Profs. Mark Ashton and Xuhui Lee
@@ -124,6 +124,9 @@ University **2019**
 
 **Teaching Fellow**, Yale School of the Environment
 
+-   ENV 659, The Practice of Silviculture: Principles in Applied Forest
+    Ecology **Spring 2026**
+
 -   ENV 660, Forest Dynamics **Fall 2025**
 
 -   Yale Geographic Information Systems Accelerator **Springs
@@ -205,8 +208,8 @@ Git.
 Markup languages: LaTeX, HTML, Markdown.  
   
 **Software---** ArcGIS, QGis, ENVI, Google Earth Engine, Agisoft
-Metashape, OpenDroneMap, DJI Terra, R, Adobe Photoshop and Illustrator,
-GIMP, Inkscape, Microsoft Suite.  
+Metashape, OpenDroneMap, DJI Terra, Cloud Compare, R, Adobe Photoshop
+and Illustrator, GIMP, Inkscape, GitHub, Microsoft Suite.  
   
 **Operating systems---** Windows, Mac OS, Linux.
 
@@ -237,7 +240,7 @@ spp.) reduce growth and carbon sequestration of light-demanding tree
 species in a temperate forest*, [Restoration Ecology *31(5)*,
 1-10](https://doi.org/10.1111/rec.13886).
 
-**Peters J.D.J.**, H. Griscom (2021) *Highlighting an overlooked hotspot
+**Peters J.D.J.**, H. Griscom (2022) *Highlighting an overlooked hotspot
 for American ginseng (*Panax quinquefolius* L.) in Virginia*, [Natural
 Areas Journal *42(2)*, 209-119](https://doi.org/10.3375/21-25).
 
