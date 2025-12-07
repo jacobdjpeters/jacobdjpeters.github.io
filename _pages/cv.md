@@ -89,8 +89,12 @@ intelligence. Additional interests include silviculture, agroforestry,
 urban forestry, forest restoration, microclimates, and forest
 regeneration.
 
-# Honors and Awards
+# Honors, Awards, and Service
 
+**Graduate Student Representative,** Yale School of the Environment
+Faculty  
+Search Committee **2025**  
+  
 **Student presentation winner (2nd),** Society of American Foresters
 Natl. Convention **2025**  
   
@@ -215,11 +219,27 @@ and Illustrator, GIMP, Inkscape, GitHub, Microsoft Suite.
 
 # Publications in Progress
 
- 
-**Peters, J.D.J.**, Grant Connette, Xuhui Lee, Bronson W. Griscom, P.
-Mark Ashton (2025) *North American Liana Distributions Highlight
-Significant Opportunities for Improved Carbon Sequestration*.
+1.  **Peters, J. D. J.**, Grant Connette, Xuhui Lee, Bronson W.
+    Griscom, P. Mark Ashton (2025) *North American Liana Distributions
+    Highlight Significant Opportunities for Improved Carbon
+    Sequestration*. In Revision, Diversity and Distributions.
 
+2.  Jammeh, K., P. Mark Ashton, **Jacob D. J. Peters** (2026)
+    *Assessment of Tree Growth Responses Following Liana Removal in
+    Urban Woodlands*. In Preparation.
+
+3.  **Peters, J. D. J.**, David Woodbury (2026) *Forest fuels management
+    effect on wildfire severity in the United States*. In Preparation.
+
+4.  Nyanzu, B. A., Kumba Jammeh, David Woodbury, **Jacob D. J. Peters**,
+    Hugh C. A. Brown, and P. Mark Ashton (2026) *Assessing the
+    composition and structural degradation of tropical forest fragments
+    within a cocoa-based agricultural landscape*. In Preparation.
+
+5.  Jammeh, K., Bernard A. Nyanzu, P. Mark Ashton, **Jacob D. J.
+    Peters**, and Hugh C.A. Brown (2026) *Assessing the understory
+    vegetation of teak (Tectona grandis) in relation to plantation age
+    and ownership Ghana*. In Preparation.
 
 # Publications
 
@@ -261,6 +281,9 @@ Development *9(2)*,
 # Invited Talks
 
  
+Yale Center for Geospatial Solutions' Website Building Workshop December
+2025
+
 Yale Environmental Training Initiative's Forest Monitoring Workshop June
 2025
 
