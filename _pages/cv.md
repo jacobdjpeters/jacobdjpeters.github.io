@@ -219,27 +219,29 @@ and Illustrator, GIMP, Inkscape, GitHub, Microsoft Suite.
 
 # Publications in Progress
 
-1.  **Peters, J. D. J.**, Grant Connette, Xuhui Lee, Bronson W.
-    Griscom, P. Mark Ashton (2025) *North American Liana Distributions
-    Highlight Significant Opportunities for Improved Carbon
-    Sequestration*. In Revision, Diversity and Distributions.
+ 
+**Peters, J. D. J.**, Grant Connette, Xuhui Lee, Bronson W. Griscom, P.
+Mark Ashton (2025) *North American Liana Distributions Highlight
+Significant Opportunities for Improved Carbon Sequestration*. In
+Revision, Diversity and Distributions.
 
-2.  Jammeh, K., P. Mark Ashton, **Jacob D. J. Peters** (2026)
-    *Assessment of Tree Growth Responses Following Liana Removal in
-    Urban Woodlands*. In Preparation.
+Jammeh, K., P. Mark Ashton, **Jacob D. J. Peters** (2026) *Assessment of
+Tree Growth Responses Following Liana Removal in Urban Woodlands*. In
+Preparation.
 
-3.  **Peters, J. D. J.**, David Woodbury (2026) *Forest fuels management
-    effect on wildfire severity in the United States*. In Preparation.
+**Peters, J. D. J.**, David Woodbury (2026) *Forest fuels management
+effect on wildfire severity in the United States*. In Preparation.
 
-4.  Nyanzu, B. A., Kumba Jammeh, David Woodbury, **Jacob D. J. Peters**,
-    Hugh C. A. Brown, and P. Mark Ashton (2026) *Assessing the
-    composition and structural degradation of tropical forest fragments
-    within a cocoa-based agricultural landscape*. In Preparation.
+Nyanzu, B. A., Kumba Jammeh, David Woodbury, **Jacob D. J. Peters**,
+Hugh C. A. Brown, and P. Mark Ashton (2026) *Assessing the composition
+and structural degradation of tropical forest fragments within a
+cocoa-based agricultural landscape*. In Preparation.
 
-5.  Jammeh, K., Bernard A. Nyanzu, P. Mark Ashton, **Jacob D. J.
-    Peters**, and Hugh C.A. Brown (2026) *Assessing the understory
-    vegetation of teak (Tectona grandis) in relation to plantation age
-    and ownership Ghana*. In Preparation.
+Jammeh, K., Bernard A. Nyanzu, P. Mark Ashton, **Jacob D. J. Peters**,
+and Hugh C.A. Brown (2026) *Assessing the understory vegetation of teak
+(Tectona grandis) in relation to plantation age and ownership Ghana*. In
+Preparation.
+
 
 # Publications
 
