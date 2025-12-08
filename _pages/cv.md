@@ -283,27 +283,32 @@ Development *9(2)*,
 # Invited Talks
 
  
-Yale Center for Geospatial Solutions' Website Building Workshop December
+Yale Center for Geospatial Solutions' Website Building Workshop
 December 2025
 
-Yale Environmental Training Initiative's Forest Monitoring Workshop June
-2025
+Yale Environmental Training Initiative's Forest Monitoring Workshop 
+June 2025
 
 Smithsonian Conservation Biology Institute's Conservation Ecology Center
 January 2025
 
-"Upgoer 5" at Yale School of the Environment Research Day April 2023
+"Upgoer 5" at Yale School of the Environment Research Day 
+April 2023
 
 Smithsonian Conservation Biology Institute's Conservation Ecology Center
 August 2021
 
-Research Day, University of Virginia's College at Wise April 2018
+Research Day, University of Virginia's College at Wise 
+April 2018
 
-Virginia Master Naturalists, Clinch Valley Chapter December 2017
+Virginia Master Naturalists, Clinch Valley Chapter 
+December 2017
 
-Clinch River Valley Initiative Youth Summit March 2017
+Clinch River Valley Initiative Youth Summit 
+March 2017
 
-Letcher Co. KY Maple School December 2016
+Letcher Co. KY Maple School 
+December 2016
 
 
 # Contributed Talks (selected)
