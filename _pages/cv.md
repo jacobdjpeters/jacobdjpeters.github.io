@@ -284,7 +284,7 @@ Development *9(2)*,
 
  
 <!-- Yale Center for Geospatial Solutions' Website Building Workshop December
-2025
+December 2025
 -->
 
 Yale Environmental Training Initiative's Forest Monitoring Workshop June
