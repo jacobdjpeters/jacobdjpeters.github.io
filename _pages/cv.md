@@ -283,9 +283,8 @@ Development *9(2)*,
 # Invited Talks
 
  
-<!-- Yale Center for Geospatial Solutions' Website Building Workshop
+Yale Center for Geospatial Solutions' Website Building Workshop
 December 2025 
--->
 
 Yale Environmental Training Initiative's Forest Monitoring Workshop 
 June 2025
