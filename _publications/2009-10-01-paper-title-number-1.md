@@ -3,7 +3,7 @@ title: "The 10/20/30 Planting Rule Aligns with Traditional Plant Diversity Metri
 collection: publications
 category: manuscripts
 permalink: /publication/freiburger-et-al-2025
-excerpt: 'We tested whether urban forestry's popular 10/20/30 rule reflects ecological diversity principles and found it reliably tracks with established biodiversity metrics across spatial scales from city blocks to entire municipalities. Applying this validated guideline at neighborhood or census block scales could simultaneously promote both urban forest resilience and environmental equity.'
+excerpt: 'test'
 date: 2025-10-07
 venue: 'Urban Forestry and Urban Greening'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
