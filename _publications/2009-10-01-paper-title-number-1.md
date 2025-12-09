@@ -7,7 +7,7 @@ excerpt: "We tested whether urban forestry's popular 10/20/30 rule reflects ecol
 date: 2025-10-07
 venue: 'Urban Forestry and Urban Greening'
 #slidesurl: 'https://jacobdjpeters.github.io/files/slides1.pdf'
-paperurl: 'https://jacobdjpeters.github.io/files/Freiburger_Peters_2025_The 10_20_30 planting rule aligns with traditional plant diversity metrics across spatial scales.pdf'
+paperurl: 'https://jacobdjpeters.github.io/files/Freiburger_Peters_2025_The%2010_20_30%20planting%20rule%20aligns%20with%20traditional%20plant%20diversity%20metrics%20across%20spatial%20scales.pdf'
 bibtexurl: 'https://jacobdjpeters.github.io/files/freiburger2025.bib'
 citation: 'Freiburger, M., Danica Doroski, Colleen M. Dunning, P. Mark Ashton, Jacob D. J. Peters (2025) The 10/20/30 Planting Rule Aligns with Traditional Plant Diversity Metrics across Spatial Scales, Urban Forestry and Urban Greening 114.'
 ---
