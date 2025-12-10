@@ -7,7 +7,7 @@ excerpt: "We conducted targeted surveys in Virginia's under-sampled Cumberland M
 date: 2022-04-20
 venue: 'Natural Areas Journal'
 #slidesurl: 'https://jacobdjpeters.github.io/files/slides1.pdf'
-paperurl: 'https://jacobdjpeters.github.io/files//home/jacob/Dropbox/_.research/_.lit/Peters2022_Ginseng_SWVA.pdf'
+paperurl: 'https://jacobdjpeters.github.io/files/Peters2022_Ginseng_SWVA.pdf'
 bibtexurl: 'https://jacobdjpeters.github.io/files/peters2022_ginseng.bib'
 citation: 'Peters, Jacob D.J., and Heather P. Griscom. “Highlighting an Overlooked Hotspot for American Ginseng (Panax Quinquefolius) in Virginia.” Natural Areas Journal 42, no. 2 (2022). https://doi.org/10.3375/21-25.'
 ---
