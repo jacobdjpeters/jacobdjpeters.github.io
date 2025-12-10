@@ -9,5 +9,5 @@ venue: 'Restoration Ecology'
 #slidesurl: 'https://jacobdjpeters.github.io/files/slides1.pdf'
 paperurl: 'https://jacobdjpeters.github.io/files/Peters2023_temperateLianas.pdf'
 bibtexurl: 'https://jacobdjpeters.github.io/files/peters2023_lianas.bib'
-citation: 'Peters, Jacob D. J., Julia M. Portmann, and Bronson W. Griscom. “Lianas ( Vitis Spp.) Reduce Growth and Carbon Sequestration of Light‐demanding Tree Species in a Temperate Forest.” Restoration Ecology 31, no. 5 (2023): e13886. https://doi.org/10.1111/rec.13886.'
+citation: 'Peters, Jacob D. J., Julia M. Portmann, and Bronson W. Griscom. 2023. “Lianas ( Vitis Spp.) Reduce Growth and Carbon Sequestration of Light‐demanding Tree Species in a Temperate Forest.” Restoration Ecology 31 (5): e13886. https://doi.org/10.1111/rec.13886.'
 ---

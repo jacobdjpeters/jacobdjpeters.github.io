@@ -9,5 +9,5 @@ venue: 'Biotropica'
 #slidesurl: 'https://jacobdjpeters.github.io/files/slides1.pdf'
 paperurl: 'https://jacobdjpeters.github.io/files//home/jacob/Dropbox/_.research/_.lit/Schnitzer2025.pdf'
 bibtexurl: 'https://jacobdjpeters.github.io/files/schnitzer2025.bib'
-citation: 'Schnitzer, Stefan A., Begüm Kaçamak, Isaac Zombo, et al. “The Search for Champion Lianas: The Largest Lianas on Six Continents.” Biotropica 57, no. 6 (2025): e70119. https://doi.org/10.1111/btp.70119.'
+citation: 'Schnitzer, Stefan A., Begüm Kaçamak, Isaac Zombo, et al. 2025. “The Search for Champion Lianas: The Largest Lianas on Six Continents.” Biotropica 57 (6): e70119. https://doi.org/10.1111/btp.70119.'
 ---

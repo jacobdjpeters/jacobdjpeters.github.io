@@ -9,5 +9,5 @@ venue: 'Agriculture, Food Systems, and Community Development'
 #slidesurl: 'https://jacobdjpeters.github.io/files/slides1.pdf'
 paperurl: 'https://jacobdjpeters.github.io/files/Peters2020_maples.pdf'
 bibtexurl: 'https://jacobdjpeters.github.io/files/peters2020_maples.bib'
-citation: 'Peters, Jacob, D. J., Ryan Huish, Dakota Taylor, and Benjamin Munson. “Comparative Analysis of Four Maple Species for Syrup Production in South-Central Appalachia.” Journal of Agriculture, Food Systems, and Community Development, March 6, 2020, 1–10.'
+citation: 'Peters, Jacob, Ryan Huish, Dakota Taylor, and Benjamin Munson. 2020. “Comparative Analysis of Four Maple Species for Syrup Production in South-Central Appalachia.” Journal of Agriculture, Food Systems, and Community Development, 1–10. https://doi.org/10.5304/jafscd.2020.092.015.'
 ---
