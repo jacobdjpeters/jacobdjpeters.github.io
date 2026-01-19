@@ -93,43 +93,32 @@ regeneration.
 
 **Graduate Student Representative,** Yale School of the Environment
 Faculty  
-Search Committee **2025**  
-  
+Search Committee  <span style="float:right">**2025**</span>
 **Student presentation winner (2nd),** Society of American Foresters
-Natl. Convention **2025**  
-  
+Natl. Convention  <span style="float:right">**2025**</span>
 **Best doctoral student presentation,** Yale School of the Environment
-Research Day **2023**  
-  
+Research Day  <span style="float:right">**2023**</span>
 **Outstanding first-year graduate student,** James Madison University
-**2019**  
-  
+ <span style="float:right">**2019**</span>
 **Three Minute Thesis People's Choice Award,** James Madison University
-**2019**  
-  
-**Joseph C. Smiddy Outstanding Scientist Award,** UVA at Wise **2018**  
-
+ <span style="float:right">**2019**</span>
+**Joseph C. Smiddy Outstanding Scientist Award,** UVA at Wise  <span style="float:right">**2018**</span>
 # Grants and Scholarships
 
 **\$5,000 ---** Yale Center for Geospatial Solutions Affiliated Students
-Grant **2025**  
-  
+Grant  <span style="float:right">**2025**</span>
 **\$20,000 ---** Childs Forestry Research Fund, The Forest School at the
-Yale School of **2024**  
-the Environment  
+Yale School of the Environment <span style="float:right">**2024**</span>
   
 **\$525,495 ---** Yale School of the Environment Doctoral Fellowship
 **2022--2027**  
   
 **\$200,000 ---** Yale Center for Natural Carbon Capture, Yale School of
-the Environment **2022**  
-  
+the Environment  <span style="float:right">**2022**</span>
 **\$3,000 ---** James Madison University Biology Department Summer
-Support Award **2019**  
-  
+Support Award  <span style="float:right">**2019**</span>
 **\$1,000 ---** Norlyn L. Bodkin Botany Scholarship, James Madison
-University **2019**  
-  
+University  <span style="float:right">**2019**</span>
 **\$48,000 ---** James Madison University Graduate Teaching Fellowship
 **2018--2020**  
 
