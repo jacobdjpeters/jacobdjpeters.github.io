@@ -28,8 +28,8 @@ Yale School of the Environment, New Haven, CT, USA
 -   Dissertation Title: *Temperate liana distributions, impacts, and
     remote sensing*
 
-**M.S., Biology,** James Madison University, Harrisonburg, VA, USA **May
-2020**  
+**M.S., Forest Ecology,** James Madison University, Harrisonburg, VA,
+USA **May 2020**  
 
 -   Honors: *Summa cum laude*, outstanding first year graduate student
 
@@ -118,11 +118,20 @@ Grant **2025**
 Yale School of **2024**  
 the Environment  
   
+**\$525,495 ---** Yale School of the Environment Doctoral Fellowship
+**2022--2027**  
+  
 **\$200,000 ---** Yale Center for Natural Carbon Capture, Yale School of
 the Environment **2022**  
   
+**\$3,000 ---** James Madison University Biology Department Summer
+Support Award **2019**  
+  
 **\$1,000 ---** Norlyn L. Bodkin Botany Scholarship, James Madison
 University **2019**  
+  
+**\$48,000 ---** James Madison University Graduate Teaching Fellowship
+**2018--2020**  
 
 # Teaching Experience
 
@@ -133,10 +142,10 @@ University **2019**
 
 -   ENV 660, Forest Dynamics **Fall 2025**
 
--   Yale Geographic Information Systems Accelerator **Springs
-    2024--2025**
+-   Yale Geographic Information Systems Accelerator **Spring 2024, 2025,
+    2026**
 
--   ENV 726, Observing Earth From Space **Springs 2024--2025**
+-   ENV 726, Observing Earth From Space **Spring 2024, 2025**
 
 -   ENV 955, Seminar in Research Analysis & Communication in Forest
     Ecology **Spring 2024**
@@ -225,17 +234,17 @@ Mark Ashton (2025) *North American Liana Distributions Highlight
 Significant Opportunities for Improved Carbon Sequestration*. In
 Revision, Diversity and Distributions.
 
+Nyanzu, B. A., Kumba Jammeh, David Woodbury, **Jacob D. J. Peters**,
+Hugh C. A. Brown, and P. Mark Ashton (2026) *Assessing the composition
+and structural degradation of tropical forest fragments within a
+cocoa-based agricultural landscape*. In Revision.
+
 Jammeh, K., P. Mark Ashton, **Jacob D. J. Peters** (2026) *Assessment of
 Tree Growth Responses Following Liana Removal in Urban Woodlands*. In
 Preparation.
 
 **Peters, J. D. J.**, David Woodbury (2026) *Forest fuels management
 effect on wildfire severity in the United States*. In Preparation.
-
-Nyanzu, B. A., Kumba Jammeh, David Woodbury, **Jacob D. J. Peters**,
-Hugh C. A. Brown, and P. Mark Ashton (2026) *Assessing the composition
-and structural degradation of tropical forest fragments within a
-cocoa-based agricultural landscape*. In Preparation.
 
 Jammeh, K., Bernard A. Nyanzu, P. Mark Ashton, **Jacob D. J. Peters**,
 and Hugh C.A. Brown (2026) *Assessing the understory vegetation of teak
@@ -283,32 +292,27 @@ Development *9(2)*,
 # Invited Talks
 
  
-Yale Center for Geospatial Solutions' Website Building Workshop
-December 2025 
+Yale Center for Geospatial Solutions' Website Building Workshop December
+2025
 
-Yale Environmental Training Initiative's Forest Monitoring Workshop 
-June 2025
+Yale Environmental Training Initiative's Forest Monitoring Workshop June
+2025
 
 Smithsonian Conservation Biology Institute's Conservation Ecology Center
 January 2025
 
-"Upgoer 5" at Yale School of the Environment Research Day 
-April 2023
+"Upgoer 5" at Yale School of the Environment Research Day April 2023
 
 Smithsonian Conservation Biology Institute's Conservation Ecology Center
 August 2021
 
-Research Day, University of Virginia's College at Wise 
-April 2018
+Research Day, University of Virginia's College at Wise April 2018
 
-Virginia Master Naturalists, Clinch Valley Chapter 
-December 2017
+Virginia Master Naturalists, Clinch Valley Chapter December 2017
 
-Clinch River Valley Initiative Youth Summit 
-March 2017
+Clinch River Valley Initiative Youth Summit March 2017
 
-Letcher Co. KY Maple School 
-December 2016
+Letcher Co. KY Maple School December 2016
 
 
 # Contributed Talks (selected)
@@ -344,7 +348,7 @@ National Conference on Undergraduate Research April 2016
 
 # References
 
-**Dr. P. Mark Ashton,** Professor of Silviculture and Director of Yale
+**Dr. Mark S. Ashton,** Professor of Silviculture and Director of Yale
 Forests, Yale School of the Environment  
 email: <mark.ashton@yale.edu>  
 office phone: [203-432-9835](tel:1-203-432-9835)
@@ -354,12 +358,13 @@ Environment
 email: <xuhui.lee@yale.edu>  
 office phone: [1-203-432-6271](tel:1-203-432-6271)
 
-**Dr. Heather Griscom,** Professor of Biology, James Madison University  
+**Dr. Joseph Orefice,** Lecturer & Director of Forest & Agricultural
+Operations, Yale School of the Environment  
+email: <joseph.orefice@yale.edu>  
+office phone: [1-518-354-3170](tel:1-518-354-3170)
+
+**Dr. Heather Griscom,** Professor of Biology & Associate Unit Head,
+James Madison University  
 email: <griscohp@jmu.edu>  
 office phone: [1-540-568-5525](tel:1-540-568-5528)
-
-**Dr. Ryan Huish,** Associate Professor of Biology, University of
-Virginia's College at Wise  
-email: <rdh5b@uvawise.edu>  
-office phone: [1-814-883-2069](tel:1-814-883-2069)
 
