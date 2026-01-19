@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 ------
-**This website is under construction! :)**
 
 
 
