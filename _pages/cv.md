@@ -102,14 +102,14 @@ Research Day  <span style="float:right">**2023**</span>
  <span style="float:right">**2019**</span>
 **Three Minute Thesis People's Choice Award,** James Madison University
  <span style="float:right">**2019**</span>
-**Joseph C. Smiddy Outstanding Scientist Award,** UVA at Wise  <span style="float:right">**2018**</span>
-# Grants and Scholarships
+**Joseph C. Smiddy Outstanding Scientist Award,** UVA at Wise 
+# Grants and Scholarships <span style="float:right">**2018**</span>
 
 **\$5,000 ---** Yale Center for Geospatial Solutions Affiliated Students
 Grant  <span style="float:right">**2025**</span>
 **\$20,000 ---** Childs Forestry Research Fund, The Forest School at the
-Yale School of the Environment <span style="float:right">**2024**</span>
-  
+Yale School of the Environment  
+ <span style="float:right">**2024**</span>
 **\$525,495 ---** Yale School of the Environment Doctoral Fellowship
 **2022--2027**  
   
