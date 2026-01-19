@@ -1,7 +1,7 @@
 #!/bin/bash
 
 CV_SOURCE="/mnt/hdd/Dropbox/documents/CV_Resume/texCV_20250222"
-WEBSITE="/mnt/hdd/Dropbox/website"
+WEBSITE="$HOME/repos/website"
 
 # Create assets/cv directory if it doesn't exist
 mkdir -p $WEBSITE/assets/cv
@@ -15,6 +15,14 @@ pandoc JacobPeters.tex -f latex -t markdown -o cv_temp.md
 sed -i 's/::://g' cv_temp.md
 sed -i 's/etaremune//g' cv_temp.md
 sed -i 's/\\$/  /' cv_temp.md
+
+
+# Fix the year issue: join split lines and move year to end
+sed -i ':a;N;s/\*\*\([0-9]\{4\}\)\*\*\\\n\(.*\)$/\2 <span style="float:right">**\1**<\/span>/;ta;P;D' cv_temp.md
+
+# Clean up trailing backslashes before the span
+sed -i 's/\\ <span style="float:right">/ <span style="float:right">/g' cv_temp.md
+
 
 # Create the CV page with front matter
 cat > $WEBSITE/_pages/cv.md << 'EOF'
