@@ -46,28 +46,26 @@ USA **May 2020**
 **Teaching Fellow,** Yale University, New Haven, CT, USA **January
 2024--Present**  
   
+**Drone Remote Sensing (ENV 704) Consultant,** Yale University, New Haven, CT, USA  **August
+2024--December 2024**  
+  
 **Geospatial Consultant,** Yale University, New Haven, CT, USA **August
 2023--August 2025**  
   
-**Adjunct Instructor, Ecology,** James Madison University, **January
+**Adjunct Instructor, Ecology,** James Madison University, Weyers Cave, VA, USA  **January
 2022--May 2022**  
-Weyers Cave, VA, USA  
   
-**Adjunct Instructor, Biology,** Blue Ridge Community College, **August
+**Adjunct Instructor, Biology,** Blue Ridge Community College, Weyers Cave, VA, USA  **August
 2020--May 2022**  
-Weyers Cave, VA, USA  
   
-**GIS Intern,** Smithsonian Conservation Biology Institute, **March
+**GIS Intern,** Smithsonian Conservation Biology Institute, Front Royal, VA, USA  **March
 2021--December 2021**  
-Front Royal, VA, USA  
   
-**Teaching Assistant,** James Madison University, **August 2018--May
+**Teaching Assistant,** James Madison University, Harrisonburg, VA, USA  **August 2018--May
 2020**  
-Harrisonburg, VA, USA  
   
 **Vegetation Survey Crew Lead,** The Pennsylvania State University,
-**May 2018--July 2018**  
-State College, PA, USA  
+State College, PA, USA  **May 2018--July 2018**  
   
 **Assistant Ecological Steward,** UVA at Wise, Wise, VA, USA **November
 2016--May 2018**  
@@ -115,8 +113,7 @@ Research Day **2023**
 Grant **2025**  
   
 **\$20,000 ---** Childs Forestry Research Fund, The Forest School at the
-Yale School of the Environment **2024**  
-
+Yale School of the Environment  **2024**  
   
 **\$525,495 ---** Yale School of the Environment Doctoral Fellowship
 **2022--2027**  
