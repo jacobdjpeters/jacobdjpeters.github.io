@@ -18,6 +18,22 @@ The Forest School at the Yale School of the Environment
 [website](https://jacobdjpeters.github.io/)  
 New Haven, CT 06511 [1-276-219-1757](tel:1-276-219-1757)
 
+# Research Interests
+
+My research involves studying a range of forest phenomena at varying
+scales to inform forest management and climate smart forestry by
+combining in situ forest measurements and experiments with big data
+techniques and remote sensing. I currently study temperate liana (woody
+vine) ecology, impacts, management feasibility and benefits, and
+distributions using field experiments as well as satellite and UAV
+remote sensing. I am also involved in guiding several projects with our
+masters of forestry and PhD students. These projects range from mapping
+and understanding biomass changes in forest fragments surrounding cocoa
+plantations in Ghana, understory regeneration in teak plantations in
+Ghana, Sal forest cover change in Bangladesh, the effect of fuel
+reduction treatments on wildfire severity in California, and street tree
+diversity in urban canopies of New England.
+
 # Education
 
 **Ph.D., Remote Sensing and Applied Forest Ecology,** **May 2027**  
@@ -58,34 +74,20 @@ USA **May 2020**
 **Adjunct Instructor, Biology,** Blue Ridge Community College, Weyers Cave, VA, USA  **August
 2020--May 2022**  
   
-**GIS Intern,** Smithsonian Conservation Biology Institute, Front Royal, VA, USA  **March
+**GIS Intern,** Smithsonian Conservation Biology Institute, Front Royal, VA, USA   **March
 2021--December 2021**  
   
 **Teaching Assistant,** James Madison University, Harrisonburg, VA, USA  **August 2018--May
 2020**  
   
-**Vegetation Survey Crew Lead,** The Pennsylvania State University,
-State College, PA, USA  **May 2018--July 2018**  
+**Vegetation Survey Crew Lead,** The Pennsylvania State University, State College, PA, USA  
+**May 2018--July 2018**  
   
 **Assistant Ecological Steward,** UVA at Wise, Wise, VA, USA **November
 2016--May 2018**  
   
 **Park Ranger Career Path Intern,** Virginia State Parks, USA **May
 2015--August 2016**  
-
-# Research Interests
-
-My research interests revolve around using big data, traditional field
-methods, and remote sensing to study a range of forest phenomena. I
-currently study temperate liana (woody vine) ecology, impacts, and
-distributions using field experiments as well as satellite and UAV
-remote sensing. I am testing the effect of releasing temperate forests
-from lianas, creating large scale species distribution models for lianas
-using Google Earth Engine, and quantifying liana abundance from UAV
-LiDAR and multispectral imagery using machine learning and artificial
-intelligence. Additional interests include silviculture, agroforestry,
-urban forestry, forest restoration, microclimates, and forest
-regeneration.
 
 # Honors, Awards, and Service
 
@@ -112,8 +114,7 @@ Research Day **2023**
 **\$5,000 ---** Yale Center for Geospatial Solutions Affiliated Students
 Grant **2025**  
   
-**\$20,000 ---** Childs Forestry Research Fund, The Forest School at the
-Yale School of the Environment  **2024**  
+**\$20,000 ---** Childs Forestry Research Fund, The Forest School at the Yale School of the Environment   **2024**  
   
 **\$525,495 ---** Yale School of the Environment Doctoral Fellowship
 **2022--2027**  
