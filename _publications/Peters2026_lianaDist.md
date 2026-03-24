@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/peters-et-al-2026
 excerpt: "Using Google Earth Engine and Python, we mapped the suitable habitat and likely distributions of four ''tree shrouding'' lianas in North America. We found that urbanization is a key driver of nonnative liana distributions."
-date: In press
+#date: TBD
 venue: 'Diversity and Distributions'
 #slidesurl: 'https://jacobdjpeters.github.io/files/slides1.pdf'
 #paperurl: 'https://jacobdjpeters.github.io/files/Freiburger2025_tentwentythirty.pdf'
