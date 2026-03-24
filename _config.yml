@@ -165,6 +165,7 @@ include:
   - _pages
   - files
   - gallery_images
+  - gallery_thumbnails
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"

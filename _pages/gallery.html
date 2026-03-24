@@ -199,7 +199,8 @@ author_profile: false
         {% for img in site.data.gallery %}
         <figure class="gallery-item" data-src="{{ '/gallery_images/' | append: img.file | relative_url }}"
             data-caption="{{ img.caption }}">
-            <img src="{{ '/gallery_images/' | append: img.file | relative_url }}" alt="{{ img.caption }}">
+            <img src="{{ '/gallery_thumbnails/' | append: img.file | relative_url }}" alt="{{ img.caption }}"
+                loading="lazy">
             {% if img.caption != "" %}
             <figcaption>{{ img.caption }}</figcaption>
             {% endif %}
