@@ -1,0 +1,267 @@
+---
+layout: single
+title: false
+permalink: /gallery/
+author_profile: false
+---
+
+<style>
+    .page {
+        width: 100%;
+        max-width: 100%;
+        padding: 0 1.5rem;
+    }
+
+    .page__inner-wrap {
+        max-width: 1600px;
+        margin: 0 auto;
+    }
+
+    #gallery-wrap {
+        visibility: hidden;
+    }
+
+    .gallery-masonry {
+        column-count: 5;
+        column-gap: 6px;
+    }
+
+    @media (max-width: 1100px) {
+        .gallery-masonry {
+            column-count: 4;
+        }
+    }
+
+    @media (max-width: 800px) {
+        .gallery-masonry {
+            column-count: 3;
+        }
+    }
+
+    @media (max-width: 500px) {
+        .gallery-masonry {
+            column-count: 2;
+        }
+    }
+
+    .gallery-item {
+        break-inside: avoid;
+        margin-bottom: 6px;
+        position: relative;
+        overflow: hidden;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+
+    .gallery-item img {
+        width: 100%;
+        display: block;
+        transition: transform 0.2s ease;
+    }
+
+    .gallery-item:hover img {
+        transform: scale(1.02);
+    }
+
+    .gallery-item figcaption {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: linear-gradient(transparent, rgba(0, 0, 0, 0.65));
+        color: white;
+        font-size: 0.78em;
+        padding: 1.5rem 0.6rem 0.5rem;
+        opacity: 0;
+        transition: opacity 0.2s ease;
+    }
+
+    .gallery-item:hover figcaption {
+        opacity: 1;
+    }
+
+    /* Lightbox */
+    #gallery-modal {
+        display: none;
+        position: fixed;
+        inset: 0;
+        background: rgba(0, 0, 0, 0.88);
+        z-index: 9999;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        padding: 1rem;
+    }
+
+    #gallery-modal.open {
+        display: flex;
+    }
+
+    #gallery-modal img {
+        max-width: 92vw;
+        max-height: 82vh;
+        border-radius: 4px;
+        object-fit: contain;
+    }
+
+    #gallery-modal p {
+        color: #ddd;
+        margin-top: 0.75rem;
+        font-size: 0.9em;
+        text-align: center;
+        max-width: 600px;
+    }
+
+    #modal-close {
+        position: fixed;
+        top: 1rem;
+        right: 1.25rem;
+        color: white;
+        font-size: 1.8rem;
+        cursor: pointer;
+        line-height: 1;
+        user-select: none;
+    }
+
+    .modal-arrow {
+        position: fixed;
+        top: 50%;
+        transform: translateY(-50%);
+        color: white;
+        font-size: 2.2rem;
+        cursor: pointer;
+        user-select: none;
+        padding: 0.5rem 1rem;
+        background: rgba(255, 255, 255, 0.1);
+        border-radius: 4px;
+        transition: background 0.15s ease;
+        line-height: 1;
+    }
+
+    .modal-arrow:hover {
+        background: rgba(255, 255, 255, 0.25);
+    }
+
+    #modal-prev {
+        left: 1rem;
+    }
+
+    #modal-next {
+        right: 1rem;
+    }
+
+    #gallery-loader {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 200px;
+        gap: 0.5rem;
+    }
+
+    #gallery-loader span {
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        background: #888;
+        animation: bounce 1.2s infinite ease-in-out;
+    }
+
+    #gallery-loader span:nth-child(2) {
+        animation-delay: 0.2s;
+    }
+
+    #gallery-loader span:nth-child(3) {
+        animation-delay: 0.4s;
+    }
+
+    @keyframes bounce {
+
+        0%,
+        80%,
+        100% {
+            transform: scale(0.6);
+            opacity: 0.4;
+        }
+
+        40% {
+            transform: scale(1.0);
+            opacity: 1;
+        }
+    }
+</style>
+
+<div id="gallery-loader">
+    <span></span><span></span><span></span>
+</div>
+
+<div id="gallery-wrap">
+    <div class="gallery-masonry" id="gallery-grid">
+        {% for img in site.data.gallery %}
+        <figure class="gallery-item" data-src="{{ '/gallery_images/' | append: img.file | relative_url }}"
+            data-caption="{{ img.caption }}">
+            <img src="{{ '/gallery_images/' | append: img.file | relative_url }}" alt="{{ img.caption }}">
+            {% if img.caption != "" %}
+            <figcaption>{{ img.caption }}</figcaption>
+            {% endif %}
+        </figure>
+        {% endfor %}
+    </div>
+</div>
+
+<div id="gallery-modal">
+    <span id="modal-close" onclick="closeModal()">&times;</span>
+    <span class="modal-arrow" id="modal-prev" onclick="navigateModal(-1)">&#8249;</span>
+    <img id="modal-img" src="" alt="">
+    <p id="modal-caption"></p>
+    <span class="modal-arrow" id="modal-next" onclick="navigateModal(1)">&#8250;</span>
+</div>
+
+<script>
+    // Shuffle
+    const grid = document.getElementById('gallery-grid');
+    const items = Array.from(grid.children);
+    items.sort(() => Math.random() - 0.5);
+    items.forEach(el => grid.appendChild(el));
+
+    // Lightbox
+    let currentIndex = 0;
+    let galleryItems = [];
+
+    function openModal(index) {
+        currentIndex = index;
+        const item = galleryItems[index];
+        document.getElementById('modal-img').src = item.dataset.src;
+        document.getElementById('modal-caption').textContent = item.dataset.caption;
+        document.getElementById('gallery-modal').classList.add('open');
+    }
+
+    function navigateModal(dir) {
+        currentIndex = (currentIndex + dir + galleryItems.length) % galleryItems.length;
+        openModal(currentIndex);
+    }
+
+    function closeModal() {
+        document.getElementById('gallery-modal').classList.remove('open');
+    }
+
+    window.addEventListener('load', () => {
+        document.getElementById('gallery-loader').style.display = 'none';
+        document.getElementById('gallery-wrap').style.visibility = 'visible';
+
+        galleryItems = Array.from(document.querySelectorAll('.gallery-item'));
+        galleryItems.forEach((item, i) => {
+            item.addEventListener('click', () => openModal(i));
+        });
+    });
+
+    document.getElementById('gallery-modal').addEventListener('click', function (e) {
+        if (e.target === this) closeModal();
+    });
+
+    document.addEventListener('keydown', e => {
+        if (!document.getElementById('gallery-modal').classList.contains('open')) return;
+        if (e.key === 'Escape') closeModal();
+        if (e.key === 'ArrowLeft') navigateModal(-1);
+        if (e.key === 'ArrowRight') navigateModal(1);
+    });
+</script>
