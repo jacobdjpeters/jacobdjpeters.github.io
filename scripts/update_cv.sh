@@ -26,6 +26,8 @@ for line in lines:
         out.append(stripped + '  \n')
     else:
         out.append(line)
+    if re.match(r'^(360 Prospect|The Forest School|New Haven)', stripped):
+        out.append(stripped + '  \n')
 open(path, 'w').writelines(out)
 PYEOF
 
