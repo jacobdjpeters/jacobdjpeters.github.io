@@ -31,12 +31,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
 # Contact Information
 
-360 Prospect St <jacob.peters@yale.edu>
 360 Prospect St <jacob.peters@yale.edu>  
-The Forest School at the Yale School of the Environment
 The Forest School at the Yale School of the Environment  
-[website](https://jacobdjpeters.github.io/)
-New Haven, CT 06511 [1-276-219-1757](tel:1-276-219-1757)
 New Haven, CT 06511 [1-276-219-1757](tel:1-276-219-1757)  
 
 # Research Interests

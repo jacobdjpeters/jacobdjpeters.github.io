@@ -19,15 +19,16 @@ import re, os
 path = os.path.expanduser('~/repos/website/_pages/cv.md')
 lines = open(path).readlines()
 out = []
+# Remove website link from contact section (redundant on website)
+lines = [l for l in lines if 'jacobdjpeters.github.io' not in l]
 for line in lines:
     stripped = line.rstrip('\n')
-    # Add markdown line break to membership lines and reference sub-lines
     if re.match(r'^(Member,|President,|Darden|email:|office phone:)', stripped):
+        out.append(stripped + '  \n')
+    elif re.match(r'^(360 Prospect|The Forest School|New Haven)', stripped):
         out.append(stripped + '  \n')
     else:
         out.append(line)
-    if re.match(r'^(360 Prospect|The Forest School|New Haven)', stripped):
-        out.append(stripped + '  \n')
 open(path, 'w').writelines(out)
 PYEOF
 
