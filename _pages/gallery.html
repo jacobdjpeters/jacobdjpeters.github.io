@@ -245,7 +245,7 @@ author_profile: false
         document.getElementById('gallery-modal').classList.remove('open');
     }
 
-    window.addEventListener('load', () => {
+    document.addEventListener('DOMContentLoaded', () => {
         document.getElementById('gallery-loader').style.display = 'none';
         document.getElementById('gallery-wrap').style.visibility = 'visible';
 
