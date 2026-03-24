@@ -1,79 +1,72 @@
 #!/bin/bash
 CV_SOURCE="/mnt/hdd/Dropbox/documents/CV_Resume/texCV_20250222"
 WEBSITE="$HOME/repos/website"
+CVMD="$WEBSITE/_pages/cv.md"
 mkdir -p $WEBSITE/assets/cv
 
 cd $CV_SOURCE
-pandoc JacobPeters.tex -f latex -t html5 --standalone \
-  --metadata title="Jacob D. J. Peters — CV" \
-  -o $WEBSITE/assets/cv/cv_raw.html
+pandoc JacobPeters.tex -f latex -t markdown -o $CVMD
 
+# Clean up pandoc/LaTeX artifacts
+sed -i 's/::://g' $CVMD
+sed -i 's/\\$//' $CVMD
+sed -i 's/^ etaremune$//' $CVMD
+sed -i 's/^ resume$//' $CVMD
+
+# Fix line breaks using Python (more reliable than sed for trailing spaces)
 python3 << 'PYEOF'
-import re
-from pathlib import Path
-import os
-
-website = os.path.expanduser('~/repos/website')
-html = Path(f'{website}/assets/cv/cv_raw.html').read_text()
-
-# Case 1: bold date spans (from \hfill {\bf ...} in main CV)
-html = re.sub(
-    r'<span><strong>((?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec|Spring|Fall|Summer|Winter|\d{4})[^<]*)</strong></span>',
-    r'<span class="date"><strong>\1</strong></span>',
-    html
-)
-
-# Case 2: plain text dates at end of <p> inside <li> (from talksContent \hfill{} dates)
-html = re.sub(
-    r'(\s)((?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{4})(</p>)',
-    r' <span class="date">\2</span>\3',
-    html
-)
-
-# Case 3: bold dates without span wrapper (from \textbf{Month Year} in talks)
-html = re.sub(
-    r'<strong>((?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{4})</strong>',
-    r'<span class="date"><strong>\1</strong></span>',
-    html
-)
-
-css = """
-<style>
-  body {
-    max-width: 860px;
-    margin: 0 auto;
-    padding: 2rem 3rem;
-    font-family: Georgia, serif;
-    font-size: 15px;
-    line-height: 1.5;
-    color: #111;
-    background: white;
-  }
-  h1 { font-size: 1.4em; margin-bottom: 0.2em; }
-  h2 { font-size: 1.1em; border-bottom: 1px solid #ccc; margin-top: 1.5em; }
-  p, li { margin: 0.2em 0; }
-  br { clear: both; }
-  span.date {
-    float: right;
-    margin-left: 1em;
-    font-weight: normal;
-    color: #333;
-  }
-  .references p { margin-bottom: 1em; }
-</style>
-"""
-
-html = html.replace('</head>', css + '</head>')
-
-Path(f'{website}/assets/cv/cv_raw.html').unlink()
-Path(f'{website}/assets/cv/cv.html').write_text(html)
-print("CV HTML written.")
+import re, os
+path = os.path.expanduser('~/repos/website/_pages/cv.md')
+lines = open(path).readlines()
+out = []
+for line in lines:
+    stripped = line.rstrip('\n')
+    # Add markdown line break to membership lines and reference sub-lines
+    if re.match(r'^(Member,|President,|Darden|email:|office phone:)', stripped):
+        out.append(stripped + '  \n')
+    else:
+        out.append(line)
+open(path, 'w').writelines(out)
 PYEOF
 
-cp $CV_SOURCE/JacobPeters.pdf $WEBSITE/assets/cv/JacobPeters.pdf
+# Prepend front matter and JS/CSS
+python3 << 'PYEOF'
+import os
+path = os.path.expanduser('~/repos/website/_pages/cv.md')
+body = open(path).read()
+header = """---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
 
-echo "Done. Review $WEBSITE/assets/cv/cv.html then commit:"
-echo "  cd $WEBSITE"
-echo "  git add assets/cv/"
-echo "  git commit -m 'Update CV'"
-echo "  git push"
+{% include base_path %}
+
+<style>
+  .date-right { float: right; margin-left: 1em; }
+  p, li { overflow: hidden; }
+  li p { margin: 0; padding: 0; }
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const datePattern = /^((?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec|Spring|Fall|Summer|Winter|\\d{4})[^<]*)$/;
+  document.querySelectorAll('strong').forEach(el => {
+    if (datePattern.test(el.textContent.trim())) {
+      el.classList.add('date-right');
+    }
+  });
+});
+</script>
+
+[Download PDF](/assets/cv/JacobPeters.pdf){: .btn .btn--info}
+
+"""
+open(path, 'w').write(header + body)
+PYEOF
+
+cp JacobPeters.pdf $WEBSITE/assets/cv/
+echo "Done. Review $CVMD and commit when ready."
