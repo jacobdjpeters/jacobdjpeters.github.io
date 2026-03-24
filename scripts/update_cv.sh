@@ -1,38 +1,30 @@
 #!/bin/bash
 CV_SOURCE="/mnt/hdd/Dropbox/documents/CV_Resume/texCV_20250222"
 WEBSITE="$HOME/repos/website"
-
 mkdir -p $WEBSITE/assets/cv
+
 cd $CV_SOURCE
+pdftohtml -noframes -s JacobPeters.pdf /tmp/cv_raw.html
 
-pandoc JacobPeters.tex -f latex -t markdown -o cv_temp.md
+python3 << 'PYEOF'
+from pathlib import Path
 
-sed -i 's/::://g' cv_temp.md
-sed -i 's/etaremune//g' cv_temp.md
-sed -i 's/\\$/  /' cv_temp.md
+html = Path('/tmp/cv_raw.html').read_text()
 
-cat > $WEBSITE/_pages/cv.md << 'EOF'
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
+# Fix dark background / override styles
+html = html.replace(
+    '</style>',
+    'body { background: white !important; color: black !important; max-width: 900px; margin: 0 auto; padding: 2rem; }\n</style>'
+)
 
-{% include base_path %}
+# Fix run-together text (pdftohtml often drops spaces between spans)
+import re
+html = re.sub(r'</span><span', '</span> <span', html)
 
-[Download PDF version](/assets/cv/JacobPeters.pdf){: .btn .btn--info}
+Path('/tmp/cv_clean.html').write_text(html)
+PYEOF
 
-EOF
+cp /tmp/cv_clean.html $WEBSITE/assets/cv/cv.html
+cp JacobPeters.pdf $WEBSITE/assets/cv/JacobPeters.pdf
 
-tail -n +2 cv_temp.md >> $WEBSITE/_pages/cv.md
-cp JacobPeters.pdf $WEBSITE/assets/cv/
-rm cv_temp.md
-
-echo "CV files updated. Review _pages/cv.md and commit when ready:"
-echo "  cd $WEBSITE"
-echo "  git add _pages/cv.md assets/cv/JacobPeters.pdf"
-echo "  git commit -m 'Update CV'"
-echo "  git push"
+echo "Done. Check assets/cv/cv.html then commit."
