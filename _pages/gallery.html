@@ -245,14 +245,12 @@ author_profile: false
         document.getElementById('gallery-modal').classList.remove('open');
     }
 
-    document.addEventListener('DOMContentLoaded', () => {
-        document.getElementById('gallery-loader').style.display = 'none';
-        document.getElementById('gallery-wrap').style.visibility = 'visible';
+    document.getElementById('gallery-loader').style.display = 'none';
+    document.getElementById('gallery-wrap').style.visibility = 'visible';
 
-        galleryItems = Array.from(document.querySelectorAll('.gallery-item'));
-        galleryItems.forEach((item, i) => {
-            item.addEventListener('click', () => openModal(i));
-        });
+    galleryItems = Array.from(document.querySelectorAll('.gallery-item'));
+    galleryItems.forEach((item, i) => {
+        item.addEventListener('click', () => openModal(i));
     });
 
     document.getElementById('gallery-modal').addEventListener('click', function (e) {
