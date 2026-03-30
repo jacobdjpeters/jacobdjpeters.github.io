@@ -218,13 +218,13 @@ author_profile: false
 </div>
 
 <script>
-    // Shuffle
+    /* Shuffle */
     const grid = document.getElementById('gallery-grid');
     const items = Array.from(grid.children);
     items.sort(() => Math.random() - 0.5);
     items.forEach(el => grid.appendChild(el));
 
-    // Lightbox
+    /* Lightbox */
     let currentIndex = 0;
     let galleryItems = [];
 
