@@ -268,9 +268,9 @@ and Illustrator, GIMP, Inkscape, GitHub, Microsoft Suite.
 # Manuscripts in Progress
 
 
-**Peters, J. D. J.**, Louis Cimmino, Manuel Flores, David Woodbury
-(2026) *Forest fuels management effect on wildfire severity in the
-United States*. In Preparation.
+**Peters, J. D. J.**, Louis Cimmino, Manuel Flores, Michael Remke, David
+Woodbury (2026) *Forest fuels management effect on wildfire severity in
+the United States*. In Preparation.
 
 **Peters, J. D. J.**, Xuhui Lee, Bronson W. Griscom, Grant Connette,
 Mark S. Ashton (2026) *Quantifying Liana Infestation Through UAV
