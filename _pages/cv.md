@@ -134,6 +134,8 @@ Research Day **2023**
 
 # Grants & Scholarships
 
+**\$4,000 ---** Maryland Native Plant Society Research Grant **2026**
+
 **\$5,000 ---** Yale Center for Geospatial Solutions Affiliated Students
 Grant **2025**
 
@@ -403,26 +405,4 @@ Annual Conference Society of Economic Botany **June 2016**
 
 National Conference on Undergraduate Research **April 2016**
 
-
-# References
-
-**Dr. Mark S. Ashton,** Professor of Silviculture and Director of Yale
-Forests, Yale School of the Environment
-email: <mark.ashton@yale.edu>  
-office phone: [203-432-9835](tel:1-203-432-9835)  
-
-**Dr. Xuhui Lee,** Professor of Meteorology, Yale School of the
-Environment
-email: <xuhui.lee@yale.edu>  
-office phone: [1-203-432-6271](tel:1-203-432-6271)  
-
-**Dr. Heather Griscom,** Professor of Biology & Associate Unit Head,
-James Madison University
-email: <griscohp@jmu.edu>  
-office phone: [1-540-568-5525](tel:1-540-568-5525)  
-
-**Dr. Marlyse Duguid,** Thomas J. Siccama Senior Lecturer in Field
-Ecology; Research Scientist; Director of Research, Yale Forests
-email: <marlyse.duguid@yale.edu>  
-office phone: [203-436-3980](tel:203-436-3980)  
 
