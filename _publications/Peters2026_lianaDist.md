@@ -7,7 +7,7 @@ excerpt: "Using Google Earth Engine and Python, we mapped the suitable habitat a
 date: 2026-03-11
 venue: 'Diversity and Distributions'
 #slidesurl: 'https://jacobdjpeters.github.io/files/slides1.pdf'
-#paperurl: 'https://jacobdjpeters.github.io/files/Freiburger2025_tentwentythirty.pdf'
-#bibtexurl: 'https://jacobdjpeters.github.io/files/freiburger2025.bib'
+paperurl: 'https://jacobdjpeters.github.io/files/Peters2026_Eastern North American Liana Distributions Reveal Conservation and Climate.pdf'
+bibtexurl: 'https://jacobdjpeters.github.io/files/peters2026_lianaDist.bib'
 citation: 'Peters, J.D.J., Grant Connette, Xuhui Lee, Bronson W. Griscom, Mark S. Ashton (2026) Eastern North American Liana Distributions Reveal Conservation and Climate Mitigation Potential. Diversity and Distributions. In Press.'
 ---
