@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 [Download PDF](/assets/cv/JacobPeters.pdf){: .btn .btn--info}
 
-
+: resume
 # Contact Information
 
 360 Prospect St <jacob.peters@yale.edu>  
@@ -56,23 +56,23 @@ diversity in urban canopies of New England.
 **Ph.D., Remote Sensing and Applied Forest Ecology,** **May 2027**
 Yale School of the Environment, New Haven, CT, USA
 
--   Dissertation Advisor: Profs. Mark Ashton and Xuhui Lee
+- Dissertation Advisor: Profs. Mark Ashton and Xuhui Lee
 
--   Dissertation Title: *Temperate liana distributions, impacts, and
-    remote sensing*
+- Dissertation Title: *Temperate liana distributions, impacts, and
+  remote sensing*
 
 **M.S., Forest Ecology,** James Madison University, Harrisonburg, VA,
 USA **May 2020**
 
--   Honors: *Summa cum laude*, outstanding first year graduate student
+- Honors: *Summa cum laude*, outstanding first year graduate student
 
--   Thesis Advisor: Dr. Heather Griscom
+- Thesis Advisor: Dr. Heather Griscom
 
 **B.S., Environmental Science,** UVA at Wise, Wise, VA, USA **May
 2018**
 
--   Honors: *Magna cum laude*, Joseph C. Smiddy Outstanding Scientist
-    Award
+- Honors: *Magna cum laude*, Joseph C. Smiddy Outstanding Scientist
+  Award
 
 # Employment
 
@@ -113,6 +113,9 @@ State College, PA, USA
 2015--August 2016**
 
 # Honors, Awards, & Service
+
+**CV Reviewer and Mock Interviewer,** Ecological Society of America
+Annual Meeting **2026**
 
 **Graduate Student Representative,** Yale School of the Environment
 Faculty
@@ -162,96 +165,100 @@ University **2019**
 
 **Teaching Fellow**, Yale School of the Environment
 
--   ENV 659, The Practice of Silviculture: Principles in Applied Forest
-    Ecology **Spring 2026**
+- Science to Solutions: New Haven (Summer Orientation Module for
+  incoming **Fall 2026**
+  students)
 
--   ENV 660, Forest Dynamics **Fall 2025**
+- ENV 659, The Practice of Silviculture: Principles in Applied Forest
+  Ecology **Spring 2026**
 
--   Yale Geographic Information Systems Accelerator **Spring 2024, 2025,
-    2026**
+- ENV 660, Forest Dynamics **Fall 2025**
 
--   ENV 726, Observing Earth From Space **Spring 2024, 2025**
+- Yale Geographic Information Systems Accelerator **Spring 2024, 2025,
+  2026**
 
--   ENV 955, Seminar in Research Analysis & Communication in Forest
-    Ecology **Spring 2024**
+- ENV 726, Observing Earth From Space **Spring 2024, 2025**
+
+- ENV 955, Seminar in Research Analysis & Communication in Forest
+  Ecology **Spring 2024**
 
 **Guest Lectures**
 
--   FORS 3100C, Mensuration and Biometrics, NMHU **Spring 2026**
+- FORS 3100C, Mensuration and Biometrics, NMHU **Spring 2026**
 
--   ENV 751, Sampling Methodology and Practice, YSE **Spring 2026**
+- ENV 751, Sampling Methodology and Practice, YSE **Spring 2026**
 
--   ENV 704, Workshop on Remote Sensing and Photogrammetry with **Fall
-    2023, Fall 2024**
-    Drones, YSE
+- ENV 704, Workshop on Remote Sensing and Photogrammetry with **Fall
+  2023, Fall 2024**
+  Drones, YSE
 
--   ENV 955, Seminar in Research Analysis & Communication in Forest
-    **Spring 2024**
-    Ecology, YSE
+- ENV 955, Seminar in Research Analysis & Communication in Forest
+  **Spring 2024**
+  Ecology, YSE
 
 **Adjunct Instructor**, James Madison University
 
--   BIO 250L, Quantitative Ecology and Evolution Lab **Spring 2022**
+- BIO 250L, Quantitative Ecology and Evolution Lab **Spring 2022**
 
 **Adjunct Instructor**, Blue Ridge Community College, VA
 
--   BIO 101, General Biology I **Fall 2020--Spring 2022**
+- BIO 101, General Biology I **Fall 2020--Spring 2022**
 
 **Teaching Assistant**, James Madison University
 
--   BIO 140L, Foundations of Biology Lab **Fall 2018--Spring 2020**
+- BIO 140L, Foundations of Biology Lab **Fall 2018--Spring 2020**
 
 # Mentoring & Supervision
 
 **Graduate students**
 
--   Akshay Patel, Yale School of the Environment **Fall 2025--Present**
+- Akshay Patel, Yale School of the Environment **Fall 2025--Present**
 
--   Sierra Chadwick, Yale School of the Environment **Fall
-    2025--Present**
+- Sierra Chadwick, Yale School of the Environment **Fall 2025--Present**
 
--   Louis Cimmino, Yale School of the Environment **Fall 2025--Present**
+- Louis Cimmino, Yale School of the Environment **Fall 2025--Present**
 
--   Kumba Jammeh, Yale School of the Environment **Fall 2024--Present**
+- Kumba Jammeh, Yale School of the Environment **Fall 2024--Present**
 
--   Nate McMullen, Yale School of the Environment **Fall 2024--2025**
+- Nate McMullen, Yale School of the Environment **Fall 2024--2025**
 
--   Jackson Cooper, Yale School of the Environment **Summer 2024--2025**
+- Jackson Cooper, Yale School of the Environment **Summer 2024--2025**
 
--   Cindy Cifuentes, Yale School of the Environment **Summer
-    2024--2025**
+- Cindy Cifuentes, Yale School of the Environment **Summer 2024--2025**
 
--   Yeim We, Yale School of the Environment **Summer 2024**
+- Yeim We, Yale School of the Environment **Summer 2024**
 
--   Sangam Paudel, Yale School of the Environment **Summer 2024**
+- Sangam Paudel, Yale School of the Environment **Summer 2024**
 
--   Michael Freiburger, Yale School of the Environment **Fall
-    2022--Spring 2023**
+- Michael Freiburger, Yale School of the Environment **Fall 2022--Spring
+  2023**
 
 **Undergraduate students**
 
--   Riley Johnson, Washington College, MD **Summer 2024**
+- Riley Johnson, Washington College, MD **Summer 2024**
 
--   Emilie Fowler, James Madison University, VA **Fall 2018--2019**
+- Emilie Fowler, James Madison University, VA **Fall 2018--2019**
 
--   Zachary Warning, SUNY ESF, NY **Summer 2018**
+- Zachary Warning, SUNY ESF, NY **Summer 2018**
 
--   Kaj Overturf, University of Maine, ME **Summer 2018**
+- Kaj Overturf, University of Maine, ME **Summer 2018**
 
--   Rosa Kome, Clemson University, SC **Summer 2018**
+- Rosa Kome, Clemson University, SC **Summer 2018**
 
 # Memberships
 
--   Member, Society of American Foresters **2025--Present**
+- Member, Ecological Society of America **2026--Present**
 
--   Member, Yale Graduate Student Forestry Club **2023--Present**
+- Member, Society of American Foresters **2025--Present**
 
--   Member, Yale Center for Geospatial Solutions Affiliated Students
-    **2024--Present**
+- Member, Yale Graduate Student Forestry Club **2023--Present**
 
--   President, UVa-Wise Environmental Club **Spring 2017--2018**
+- Member, Yale Center for Geospatial Solutions Affiliated Students
+  **2024--Present**
 
--   Darden Society member **2016--Present**
+- President, UVa-Wise Environmental Club **Spring 2017--2018**
+
+- Darden Society member **2016--Present**
 
 # Computer Skills
 
@@ -309,8 +316,9 @@ Preparation.
 
 **Peters, J. D. J.**, Grant Connette, Xuhui Lee, Bronson W. Griscom,
 Mark S. Ashton (2026) *Eastern North American Liana Distributions
-Highlight Significant Opportunities for Improved Carbon Sequestration*.
-In Press, Diversity and Distributions.
+Highlight Significant Opportunities for Improved Carbon Sequestration*,
+[Diversity and
+Distributions *32(4)*](https://doi.org/10.1111/ddi.70188).
 
 Freiburger, M., Danica Doroski, Colleen M. Dunning, Mark S. Ashton,
 **Jacob D. J. Peters** (2025) *The 10/20/30 Planting Rule Aligns with
@@ -375,6 +383,8 @@ Letcher Co. KY Maple School **December 2016**
 # Contributed Talks (selected)
 
 
+Ecological Society of America Annual Meeting **July 2026**
+
 Society of American Foresters National Convention **October 2025**
 
 New England Society of American Foresters Annual Meeting **March 2025**
@@ -406,3 +416,20 @@ Annual Conference Society of Economic Botany **June 2016**
 National Conference on Undergraduate Research **April 2016**
 
 
+# References
+
+**Dr. Mark S. Ashton,** Professor of Silviculture and Director of Yale
+Forests, Yale School of the Environment
+email: <mark.ashton@yale.edu>  
+office phone: [1-203-432-9835](tel:1-203-432-9835)  
+
+**Dr. Xuhui Lee,** Professor of Meteorology, Yale School of the
+Environment
+email: <xuhui.lee@yale.edu>  
+office phone: [1-203-432-6271](tel:1-203-432-6271)  
+
+**Dr. David Woodbury,** Assistant Professor of Forestry, New Mexico
+Highlands University
+email: <dwoodbury@nmhu.edu>  
+office phone: [1-505-426-2267](tel:1-505-426-2267)  
+:
