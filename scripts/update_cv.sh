@@ -8,10 +8,10 @@ cd $CV_SOURCE
 pandoc JacobPeters.tex -f latex -t markdown -o $CVMD
 
 # Clean up pandoc/LaTeX artifacts
-sed -i 's/::://g' $CVMD
+# Delete pandoc fenced-div lines (::: resume, :::: etaremune, closing :::, etc.)
+sed -i -E '/^:{3,}/d' $CVMD
+# Strip trailing LaTeX line-break backslashes
 sed -i 's/\\$//' $CVMD
-sed -i 's/^ etaremune$//' $CVMD
-sed -i 's/^ resume$//' $CVMD
 
 # Fix line breaks using Python (more reliable than sed for trailing spaces)
 python3 << 'PYEOF'

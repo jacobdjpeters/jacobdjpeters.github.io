@@ -28,7 +28,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
 [Download PDF](/assets/cv/JacobPeters.pdf){: .btn .btn--info}
 
-: resume
 # Contact Information
 
 360 Prospect St <jacob.peters@yale.edu>  
@@ -114,9 +113,6 @@ State College, PA, USA
 
 # Honors, Awards, & Service
 
-**CV Reviewer and Mock Interviewer,** Ecological Society of America
-Annual Meeting **2026**
-
 **Graduate Student Representative,** Yale School of the Environment
 Faculty
 Search Committee **2025**
@@ -164,10 +160,6 @@ University **2019**
 # Teaching Experience
 
 **Teaching Fellow**, Yale School of the Environment
-
-- Science to Solutions: New Haven (Summer Orientation Module for
-  incoming **Fall 2026**
-  students)
 
 - ENV 659, The Practice of Silviculture: Principles in Applied Forest
   Ecology **Spring 2026**
@@ -247,8 +239,6 @@ University **2019**
 
 # Memberships
 
-- Member, Ecological Society of America **2026--Present**
-
 - Member, Society of American Foresters **2025--Present**
 
 - Member, Yale Graduate Student Forestry Club **2023--Present**
@@ -273,7 +263,6 @@ and Illustrator, GIMP, Inkscape, GitHub, Microsoft Suite.
 **Operating systems---** Windows, Mac OS, Linux.
 
 # Manuscripts in Progress
-
 
 **Peters, J. D. J.**, Louis Cimmino, Manuel Flores, Michael Remke, David
 Woodbury (2026) *Forest fuels management effect on wildfire severity in
@@ -310,15 +299,12 @@ Mark S. Ashton (2027) *Monitoring Tree Growth Responses to Liana Removal
 in Mid Atlantic Hardwoods Using Drone and Field Measurements*. In
 Preparation.
 
-
 # Publications
-
 
 **Peters, J. D. J.**, Grant Connette, Xuhui Lee, Bronson W. Griscom,
 Mark S. Ashton (2026) *Eastern North American Liana Distributions
-Highlight Significant Opportunities for Improved Carbon Sequestration*,
-[Diversity and
-Distributions *32(4)*](https://doi.org/10.1111/ddi.70188).
+Highlight Significant Opportunities for Improved Carbon Sequestration*.
+In Press, Diversity and Distributions.
 
 Freiburger, M., Danica Doroski, Colleen M. Dunning, Mark S. Ashton,
 **Jacob D. J. Peters** (2025) *The 10/20/30 Planting Rule Aligns with
@@ -353,9 +339,7 @@ Appalachia*, [Journal of Agriculture, Food Systems, and Community
 Development *9(2)*,
 267-276](https://doi.org/10.5304/jafscd.2020.092.015).
 
-
 # Invited Talks
-
 
 Yale Center for Geospatial Solutions' Website Building Workshop
 **December 2025**
@@ -379,11 +363,7 @@ Clinch River Valley Initiative Youth Summit **March 2017**
 
 Letcher Co. KY Maple School **December 2016**
 
-
 # Contributed Talks (selected)
-
-
-Ecological Society of America Annual Meeting **July 2026**
 
 Society of American Foresters National Convention **October 2025**
 
@@ -415,7 +395,6 @@ Annual Conference Society of Economic Botany **June 2016**
 
 National Conference on Undergraduate Research **April 2016**
 
-
 # References
 
 **Dr. Mark S. Ashton,** Professor of Silviculture and Director of Yale
@@ -432,4 +411,3 @@ office phone: [1-203-432-6271](tel:1-203-432-6271)
 Highlands University
 email: <dwoodbury@nmhu.edu>  
 office phone: [1-505-426-2267](tel:1-505-426-2267)  
-:
