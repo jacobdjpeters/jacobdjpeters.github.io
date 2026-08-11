@@ -418,9 +418,9 @@ National Conference on Undergraduate Research **April 2016**
 # References
 
 **Dr. Mark S. Ashton**
-Senior Associate Dean of The Forest School
-Morris K. Jesup Professor of Silviculture and Forest Ecology
-Director of Yale Forests
+Senior Associate Dean of The Forest School; Morris K. Jesup Professor of
+Silviculture and Forest Ecology; Director of Yale Forests
+Yale School of the Environment
 <mark.ashton@yale.edu>
 [1-203-432-9835](tel:1-203-432-9835)
 
