@@ -31,8 +31,6 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 
-[Download PDF](/assets/cv/JacobPeters.pdf){: .btn .btn--info}
-
 # Contact Information
 
 360 Prospect St <span class="contact-right"><jacob.peters@yale.edu></span>  
@@ -417,21 +415,4 @@ National Conference on Undergraduate Research **April 2016**
 
 # References
 
-**Dr. Mark S. Ashton**
-Senior Associate Dean of The Forest School; Morris K. Jesup Professor of
-Silviculture and Forest Ecology; Director of Yale Forests
-Yale School of the Environment
-<mark.ashton@yale.edu>
-[1-203-432-9835](tel:1-203-432-9835)
-
-**Dr. Xuhui Lee**
-Sara Shallenberger Brown Professor of Climate Science
-Yale School of the Environment
-<xuhui.lee@yale.edu>
-[1-203-432-6271](tel:1-203-432-6271)
-
-**Dr. David Woodbury**
-Assistant Professor of Forestry
-New Mexico Highlands University
-<dwoodbury@nmhu.edu>
-[1-505-426-2267](tel:1-505-426-2267)
+Available upon request.

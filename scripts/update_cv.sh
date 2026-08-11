@@ -15,6 +15,7 @@ sed -i 's/\\$//' $CVMD
 
 
 # Fix line breaks using Python (more reliable than sed for trailing spaces)
+# Fix line breaks using Python (more reliable than sed for trailing spaces)
 python3 << 'PYEOF'
 import re, os
 path = os.path.expanduser('~/repos/website/_pages/cv.md')
@@ -22,12 +23,23 @@ lines = open(path).readlines()
 out = []
 # Remove website link from contact section (redundant on website)
 lines = [l for l in lines if 'jacobdjpeters.github.io' not in l]
+in_refs = False
 for line in lines:
     stripped = line.rstrip('\n')
-    # Right-float contact items to mirror two-column LaTeX layout 
+    # Drop References section — don't publish colleagues' contact info
+    if re.match(r'^#+\s*References', stripped):
+        in_refs = True
+        out.append('# References\n\nAvailable upon request.\n')
+        continue
+    if in_refs:
+        if re.match(r'^#+\s', stripped):   # next heading ends the skip
+            in_refs = False
+        else:
+            continue
+    # Right-float contact items to mirror two-column LaTeX layout
     stripped = re.sub(r'\s+(<[^>]*@[^>]*>)$', r' <span class="contact-right">\1</span>', stripped)
     stripped = re.sub(r'\s+(\[1-\d[^\]]*\]\([^)]*\))$', r' <span class="contact-right">\1</span>', stripped)
-    if re.match(r'^(Member,|President,|Darden|email:|office phone:)', stripped):
+    if re.match(r'^(Member,|President,|Darden)', stripped):
         out.append(stripped + '  \n')
     elif re.match(r'^(360 Prospect|The Forest School|New Haven)', stripped):
         out.append(stripped + '  \n')
@@ -35,6 +47,7 @@ for line in lines:
         out.append(line)
 open(path, 'w').writelines(out)
 PYEOF
+
 
 # Prepend front matter and JS/CSS
 python3 << 'PYEOF'
@@ -74,11 +87,9 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 
-[Download PDF](/assets/cv/JacobPeters.pdf){: .btn .btn--info}
-
 """
 open(path, 'w').write(header + body)
 PYEOF
 
-cp JacobPeters.pdf $WEBSITE/assets/cv/
+# cp JacobPeters.pdf $WEBSITE/assets/cv/  # i think we dont need PDF on website. it has references which we might not want. 
 echo "Done. Review $CVMD and commit when ready."
