@@ -113,6 +113,9 @@ State College, PA, USA
 
 # Honors, Awards, & Service
 
+**CV Reviewer and Mock Interviewer,** Ecological Society of America
+Annual Meeting **2026**
+
 **Graduate Student Representative,** Yale School of the Environment
 Faculty
 Search Committee **2025**
@@ -160,6 +163,10 @@ University **2019**
 # Teaching Experience
 
 **Teaching Fellow**, Yale School of the Environment
+
+- Science to Solutions: New Haven (Summer Orientation Module for
+  incoming **Fall 2026**
+  students)
 
 - ENV 659, The Practice of Silviculture: Principles in Applied Forest
   Ecology **Spring 2026**
@@ -239,6 +246,8 @@ University **2019**
 
 # Memberships
 
+- Member, Ecological Society of America **2026--Present**
+
 - Member, Society of American Foresters **2025--Present**
 
 - Member, Yale Graduate Student Forestry Club **2023--Present**
@@ -303,8 +312,10 @@ Preparation.
 
 **Peters, J. D. J.**, Grant Connette, Xuhui Lee, Bronson W. Griscom,
 Mark S. Ashton (2026) *Eastern North American Liana Distributions
-Highlight Significant Opportunities for Improved Carbon Sequestration*.
-In Press, Diversity and Distributions.
+Highlight Significant Opportunities for Improved Carbon Sequestration*,
+[Diversity and
+Distributions *32(4)*](https://doi.org/10.1111/ddi.70188). [Diversity
+and Distributions *32(4)*](https://doi.org/10.1111/ddi.70188).
 
 Freiburger, M., Danica Doroski, Colleen M. Dunning, Mark S. Ashton,
 **Jacob D. J. Peters** (2025) *The 10/20/30 Planting Rule Aligns with
@@ -364,6 +375,10 @@ Clinch River Valley Initiative Youth Summit **March 2017**
 Letcher Co. KY Maple School **December 2016**
 
 # Contributed Talks (selected)
+
+Ecological Society of America Annual Meeting **July 2026**
+
+Ecological Society of America Annual Meeting **July 2026**
 
 Society of American Foresters National Convention **October 2025**
 
