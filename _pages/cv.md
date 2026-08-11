@@ -11,6 +11,7 @@ redirect_from:
 
 <style>
   .date-right { float: right; margin-left: 1em; }
+  .contact-right { float: right; }
   p, li { overflow: hidden; }
   li p { margin: 0; padding: 0; }
 </style>
@@ -30,9 +31,9 @@ document.addEventListener('DOMContentLoaded', function() {
 
 # Contact Information
 
-360 Prospect St <jacob.peters@yale.edu>  
+360 Prospect St <span class="contact-right"><jacob.peters@yale.edu></span>  
 The Forest School at the Yale School of the Environment  
-New Haven, CT 06511 [1-276-219-1757](tel:1-276-219-1757)  
+New Haven, CT 06511 <span class="contact-right">[1-276-219-1757](tel:1-276-219-1757)</span>  
 
 # Research Interests
 
@@ -414,15 +415,15 @@ National Conference on Undergraduate Research **April 2016**
 
 **Dr. Mark S. Ashton,** Professor of Silviculture and Director of Yale
 Forests, Yale School of the Environment
-email: <mark.ashton@yale.edu>  
-office phone: [1-203-432-9835](tel:1-203-432-9835)  
+email: <span class="contact-right"><mark.ashton@yale.edu></span>  
+office phone: <span class="contact-right">[1-203-432-9835](tel:1-203-432-9835)</span>  
 
 **Dr. Xuhui Lee,** Professor of Meteorology, Yale School of the
 Environment
-email: <xuhui.lee@yale.edu>  
-office phone: [1-203-432-6271](tel:1-203-432-6271)  
+email: <span class="contact-right"><xuhui.lee@yale.edu></span>  
+office phone: <span class="contact-right">[1-203-432-6271](tel:1-203-432-6271)</span>  
 
 **Dr. David Woodbury,** Assistant Professor of Forestry, New Mexico
 Highlands University
-email: <dwoodbury@nmhu.edu>  
-office phone: [1-505-426-2267](tel:1-505-426-2267)  
+email: <span class="contact-right"><dwoodbury@nmhu.edu></span>  
+office phone: <span class="contact-right">[1-505-426-2267](tel:1-505-426-2267)</span>  

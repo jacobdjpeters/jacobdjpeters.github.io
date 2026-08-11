@@ -13,6 +13,7 @@ sed -i -E '/^:{3,}/d' $CVMD
 # Strip trailing LaTeX line-break backslashes
 sed -i 's/\\$//' $CVMD
 
+
 # Fix line breaks using Python (more reliable than sed for trailing spaces)
 python3 << 'PYEOF'
 import re, os
@@ -23,6 +24,9 @@ out = []
 lines = [l for l in lines if 'jacobdjpeters.github.io' not in l]
 for line in lines:
     stripped = line.rstrip('\n')
+    # Right-float contact items to mirror two-column LaTeX layout 
+    stripped = re.sub(r'\s+(<[^>]*@[^>]*>)$', r' <span class="contact-right">\1</span>', stripped)
+    stripped = re.sub(r'\s+(\[1-\d[^\]]*\]\([^)]*\))$', r' <span class="contact-right">\1</span>', stripped)
     if re.match(r'^(Member,|President,|Darden|email:|office phone:)', stripped):
         out.append(stripped + '  \n')
     elif re.match(r'^(360 Prospect|The Forest School|New Haven)', stripped):
@@ -50,6 +54,7 @@ redirect_from:
 
 <style>
   .date-right { float: right; margin-left: 1em; }
+  .contact-right { float: right; }
   p, li { overflow: hidden; }
   li p { margin: 0; padding: 0; }
 </style>
