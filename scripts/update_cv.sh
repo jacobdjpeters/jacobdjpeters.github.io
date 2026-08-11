@@ -54,7 +54,7 @@ redirect_from:
 
 <style>
   .date-right { float: right; margin-left: 1em; }
-  .contact-right { float: right; }
+  .contact-right { float: right; clear: right; }
   p, li { overflow: hidden; }
   li p { margin: 0; padding: 0; }
 </style>
@@ -66,6 +66,10 @@ document.addEventListener('DOMContentLoaded', function() {
     if (datePattern.test(el.textContent.trim())) {
       el.classList.add('date-right');
     }
+  });
+  // Right-align contact links to mirror the two-column LaTeX layout
+  document.querySelectorAll('a[href^="mailto:"], a[href^="tel:"]').forEach(el => {
+    el.classList.add('date-right');
   });
 });
 </script>
