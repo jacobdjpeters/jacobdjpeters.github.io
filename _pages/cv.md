@@ -417,17 +417,21 @@ National Conference on Undergraduate Research **April 2016**
 
 # References
 
-**Dr. Mark S. Ashton,** Professor of Silviculture and Director of Yale
-Forests, Yale School of the Environment
-email: <span class="contact-right"><mark.ashton@yale.edu></span>  
-office phone: <span class="contact-right">[1-203-432-9835](tel:1-203-432-9835)</span>  
+**Dr. Mark S. Ashton**
+Senior Associate Dean of The Forest School
+Morris K. Jesup Professor of Silviculture and Forest Ecology
+Director of Yale Forests
+<mark.ashton@yale.edu>
+[1-203-432-9835](tel:1-203-432-9835)
 
-**Dr. Xuhui Lee,** Professor of Meteorology, Yale School of the
-Environment
-email: <span class="contact-right"><xuhui.lee@yale.edu></span>  
-office phone: <span class="contact-right">[1-203-432-6271](tel:1-203-432-6271)</span>  
+**Dr. Xuhui Lee**
+Sara Shallenberger Brown Professor of Climate Science
+Yale School of the Environment
+<xuhui.lee@yale.edu>
+[1-203-432-6271](tel:1-203-432-6271)
 
-**Dr. David Woodbury,** Assistant Professor of Forestry, New Mexico
-Highlands University
-email: <span class="contact-right"><dwoodbury@nmhu.edu></span>  
-office phone: <span class="contact-right">[1-505-426-2267](tel:1-505-426-2267)</span>  
+**Dr. David Woodbury**
+Assistant Professor of Forestry
+New Mexico Highlands University
+<dwoodbury@nmhu.edu>
+[1-505-426-2267](tel:1-505-426-2267)
